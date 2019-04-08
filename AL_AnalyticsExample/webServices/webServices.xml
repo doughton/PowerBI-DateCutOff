@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExportedData>
+    <TenantWebServiceCollection>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81751</ObjectID>
+            <ServiceName>BCPBI_Bin</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81752</ObjectID>
+            <ServiceName>BCPBI_Bin Content</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81753</ObjectID>
+            <ServiceName>BCPBI_Dimension</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81754</ObjectID>
+            <ServiceName>BCPBI_Dimension Set Entry</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81755</ObjectID>
+            <ServiceName>BCPBI_Dimension Value</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+         <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81756</ObjectID>
+            <ServiceName>BCPBI_General Ledger Setup</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+         <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81757</ObjectID>
+            <ServiceName>BCPBI_Item</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81758</ObjectID>
+            <ServiceName>BCPBI_Item Category</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81759</ObjectID>
+            <ServiceName>BCPBI_Item Ledger Entry</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81760</ObjectID>
+            <ServiceName>BCPBI_Item Unit of Measure</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81761</ObjectID>
+            <ServiceName>BCPBI_Location</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81762</ObjectID>
+            <ServiceName>BCPBI_Lot No. Information</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81763</ObjectID>
+            <ServiceName>BCPBI_Value Entry</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+        <TenantWebService>
+            <ObjectType>Page</ObjectType>
+            <ObjectID>81764</ObjectID>
+            <ServiceName>BCPBI_Warehouse Entry</ServiceName>
+            <Published>true</Published>
+        </TenantWebService>
+    </TenantWebServiceCollection>
+</ExportedData>

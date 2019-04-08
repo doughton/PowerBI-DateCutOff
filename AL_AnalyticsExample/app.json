@@ -1,0 +1,21 @@
+{
+  "id": "42d3ea7f-3e5c-4b38-857b-90c397f79d84",
+  "name": "BrainCanvas Analytics Views",
+  "publisher": "BrainCanvas.io",
+  "brief": "",
+  "description": "This extension will publish required views for the Power BI Templates examples from BrainCanvas.",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "https://braincanvas.io",
+  "url": "https://braincanvas.io",
+  "logo": "./logo/logo.png",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {"from": 81750,"to": 81775},
+  "features": ["TranslationFile"],
+  "runtime": "2.1"
+}

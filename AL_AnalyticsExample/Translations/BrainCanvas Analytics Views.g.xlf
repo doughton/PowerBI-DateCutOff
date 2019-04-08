@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BrainCanvas Analytics Views">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1083332559 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analytics OData View Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPBI_AnalyticsODataViewEntry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1083332559 - Field 3641927271 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPBI_AnalyticsODataViewEntry - Field ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1083332559 - Field 1878130204 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPBI_AnalyticsODataViewEntry - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1083332559 - Field 2961552353 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPBI_AnalyticsODataViewEntry - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 253480416 - Method 2104127805 - NamedType 3720714992" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup BrainCanvas Example Analytics OData views</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCPBI_AssistedSetup - Method AddToAssistedSetup - NamedType DescText</note>
+        </trans-unit>
+        <trans-unit id="Page 2277740766 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analytics OData Views</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_AnalyticsODataViews - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2277740766 - Action 4060435035 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open View</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_AnalyticsODataViews - Action OpenView - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 369238614 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bin</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_Bin_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1938694973 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bin Content</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_BinContent_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1204335209 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_Dimension_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4251447395 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Set Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_DimensionSetEntry_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903948592 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dimension Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_DimensionValue_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2785316109 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Ledger Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_GeneralLedgerSetup_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2811806526 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_Item_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2016428190 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_ItemCategory_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1588551901 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Ledger Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_ItemLedgerEntry_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1486642815 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Unit of Measure</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_ItemUnitOfMeasure_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3105875190 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_Location_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3672440255 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No. Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_LotNoInformation_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4142180172 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Value Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_ValueEntry_View - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2059074882 - Property 2879900210" maxwidth="250" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warehouse Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPBI_WarehouseEntry_View - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
